@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "key": 4434656758,
+    "name": "HTML",
+    "img": "/images/project/skills_images/html.png"
+  },
+  {
+    "id": 2,
+    "key": 443465678,
+    "name": "CSS",
+    "img": "/images/project/skills_images/css.png"
+  },
+  {
+    "id": 3,
+    "key": 444657658,
+    "name": "Bootstrap",
+    "img": "images/project/skills_images/bootstrap.jpg"
+  },
+  {
+    "id": 4,
+    "key": 443456765,
+    "name": "React Bootstrap",
+    "img": "/images/project/skills_images/reactBootstrap.png"
+  },
+  {
+    "id": 5,
+    "key": 4434658,
+    "name": "Tailwind CSS",
+    "img": "/images/project/skills_images/talwind.png"
+  },
+  {
+    "id": 6,
+    "key": 43465676,
+    "name": "JavaScript",
+    "img": "/images/project/skills_images/js.png"
+  },
+  {
+    "id": 7,
+    "key": 434656758,
+    "name": "React Js",
+    "img": "/images/project/skills_images/react.png"
+  },
+  
+  {
+    "id": 10,
+    "key": 4434658,
+    "name": "Node Js",
+    "img": "/images/project/skills_images/css.png"
+  },
+  {
+    "id": 11,
+    "key": 567658,
+    "name": "Firebase",
+    "img": "/images/project/skills_images/firebase.png"
+  },
+  {
+    "id": 12,
+    "key": 4434665,
+    "name": "Authintication",
+    "img": "/images/project/skills_images/auth.png"
+  },
+  {
+    "id": 13,
+    "key": 4567658,
+    "name": "Express Js",
+    "img": "/images/project/skills_images/express.png"
+  },
+  {
+    "id": 14,
+    "key": 67658,
+    "name": "Figma",
+    "img": "/images/project/skills_images/figma.png"
+  }
+  
+]

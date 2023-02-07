@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* html,
+body {
+  @apply bg-[#eceef0]  text-[#1f2937] tracking-wide;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+} */
+
+/* .cutom-img{
+  background-image: url('https://img.freepik.com/free-vector/falling-flying-autumn-leaves-background-realistic-autumn-yellow-leaf-isolated-white-background-fall-sale-background-vector-illustration_87521-3462.jpg?w=996&t=st=1663137874~exp=1663138474~hmac=b273aed8bd6427b71404f1d4d21d2e639dba94afb3f98b22114338089e6ce053');
+} */
+
+@layer base {
+  body {
+    @apply bg-[#eceef0]  text-[#1f2937] tracking-wide
+
+  } 
+  
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold
+  }
+  h1{
+    @apply text-4xl sm:text-6xl
+  }
+  
+  h2{
+    @apply text-3xl sm:text-4xl
+  }
+  li{
+    @apply cursor-pointer
+  }
+  button{
+    @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white
+    
+  }
+  
+
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "key": 44347658,
+    "name": "Computers Hub 🔑 Full-stack website",
+    "description": "Exclusive second-hand-laptop online sales website.It is a MERN Stack Project. Users can Log in to this website.It has an Admin Panel page, user can show his orders.Users can review the website.Users can delete orders.If admin login Admin can make a user admin, can add products, can manage all products as well as manage all orders",
+    "features": [
+      {
+        "ft": "It is a second hand laptop selling site where the users can buy the products.In the dashboard, they can cancel the order and can check the order status Also, they can review the site(Login is required for dashboard access)"
+      },
+      {
+        "ft": "An administrator/owner can approve or cancel or send an order in the admin panel and add or delete products, making someone an admin(Only admins can see the admin panel)"
+      },
+      {
+        "ft": "For testing purposes, admin’s email: zayed@opu.com, password: 1234ZAYEDopu"
+      },
+      {
+        "ft": "It uses CRUD operation and has a sign-up / sign-in system. A fully functional and responsive site has been created based on MERN"
+      }
+    ],
+    "tools": "React.JS, React Router Dom, Nested Routing, React Hook Form, Node JS, Express.JS, MongoDB, Firebase Authentication & Hosting, tailwind CSS , daisyUI, React Icons.",
+    "img1": "/images/project/project_images/projectImg_1.png",
+    "liveLink": "https://computers-hub-31cc1.web.app/",
+    "clientSiteLink": "https://github.com/opuzayed/resale-hub",
+    "serverSiteLink": "https://github.com/opuzayed/resale-hub-server/tree/main"
+  },
+  {
+    "id": 2,
+    "key": 24347658,
+    "name": "Trusted-Immigration 🔑 Full-stack website",
+    "description": "It is a visa site where users can choose visa categories.To book a visa, login is required. They can see the visa details and can add his/her own review",
+    "features": [
+      {
+        "ft": "Including  three types of visa, where users can choose visa categories and see visa details. Also users can add reviews for visa categories. When users add a review then login is required"
+      },
+      {
+        "ft": "An administrator/site owner can add or delete a service."
+      },
+      {
+        "ft": "A fully functional and responsive site has been created based on MERN. It uses CRUD operation and has a sign-up / sign-in system."
+      }
+    ],
+    "tools": "React JS, React Router Dom, Node JS, Express JS, MongoDB, Firebase Authentication, Bootstrap, CSS3, React Icons.",
+    "img1": "/images/project/project_images/projectImg_2.png",
+
+    "liveLink": "https://trusted-emmigration.web.app/",
+    "clientSiteLink": "https://github.com/opuzayed/trusted-emmigration",
+    "serverSiteLink": "https://github.com/opuzayed/trusted-emmigration-server"
+  },
+  {
+    "id": 3,
+    "key": 443447658,
+    "name": "GigaTech 🔑 Complete website",
+    "description": "The system provides a users to select a category and choose course",
+    "features": [
+      { "ft": "Users can see the course categories and can select a course."},
+      {
+        "ft": "When users get premium access, login required then users can access the course."
+      },
+      {
+        "ft": "It has fully responsive five different routes to define all the services with awesome design."
+      }
+    ],
+    "tools": "React JS, React Router Dom, Firebase Authentication, React Bootstrap, CSS3",
+    "img1": "/images/project/project_images/projectImg_3.png",
+    "liveLink": "https://github.com/opuzayed/Giga-Tech",
+    "clientSiteLink": "https://gigatech-f3144.web.app/"
+   
+  },
+  {
+    "id": 4,
+    "key": 444337658,
+    "name": "Quiz Hungama 🔑 Simple React Quiz Website",
+    "description": "Quiz Hungama that test your skills like Java Script, React JS, CSS, Git and many more. In your journey of evolution as a technologist.",
+    "features": [
+      {
+        "ft": "Users can see the courses and click the specific topic for test their skills"
+      },
+      {
+        "ft": "Users also see total number of quiz on specific topic"
+      },
+      {
+        "ft": "When users test the knowledge on specific topic.They can see right or wrong answer by clicking eye icon and also toast show, answer right or wrong"
+      }
+    ],
+    "tools": "React JS, Bootstrap, React-Bootstrap, React-Router-Dom, React-Hot-Toast, React-Icons",
+
+    "img1": "/images/project/project_images/projectImg_4.png",
+
+
+    "liveLink": "https://fabulous-marigold-3b5fc2.netlify.app/",
+    "clientSiteLink": "https://github.com/opuzayed/quiz-hungama"
+  },
+  {
+    "id": 5,
+    "key": 44343434347658,
+    "name": "Top five Dream Footballer 🔑 Simple Javascript Website",
+    "description": "This site is design to choose top five dream footballer, also show their salary in per year.",
+    "features": [
+      { "ft": "Users can select their favourite top five footballer in this list" },
+      { "ft": "Users also calculate their salary in per year" },
+      { "ft": "They can also calculate manager and coach expenses with footballer by clicking calculate total button" }
+    ],
+
+    "tools": "JAVASCRIPT, HTML5, CSS3",
+    "img1": "/images/project/project_images/projectImg_5.png",
+    "liveLink": "https://fascinating-brioche-8d3b5a.netlify.app/",
+    "clientSiteLink": "https://github.com/opuzayed/select-top-best-5"
+  }
+]
+
+
+
