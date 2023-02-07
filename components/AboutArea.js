@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import ContactImg from "../public/assets/contact.jpg";
+import ContactImg from "../public/assets/contact2.jpg";
 
 const AboutArea = () => {
   return (
@@ -46,7 +46,11 @@ const AboutArea = () => {
           </div>
         </div>
         <div className="w-full h-auto m-auto shadow-xl shadow-gray-700 rounded-xl flex justify-center p-4 hover:scale-105 ease-in duration-300 ">
-          <Image className="rounded-xl" src={ContactImg} alt="/" />
+          <Image className="rounded-xl" 
+          src={ContactImg} 
+          alt="/" 
+          
+          />
         </div>
       </div>
     </div>

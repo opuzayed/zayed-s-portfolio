@@ -19,23 +19,24 @@ const ContactUs = () => {
         {/* left */}
         <div className="col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4">
           <div className="lg:p-4 h-full">
-           
-            <div className="w-full h-auto m-auto flex justify-center lg:justify-start">
+            <div className="text-center lg:text-start">
+              <div className="w-full h-auto m-auto flex justify-center lg:justify-start">
                 <Image
-                className="rounded-xl hover:scale-105 ease-in duration-300"
-                src={ContactImg}
-                alt="/"
-              />
-               </div>
-                    <div>
-                    <h2 className="py-2">Zayed Hossain</h2>
-                     <p>Front-End Developer</p>
-                     <p className="py-4">
-                          I am available for Remote job or full-time positions. Contact me
-                           and let&apos;s talk.
-                      </p>
-                  </div>
-               
+                  className="rounded-xl hover:scale-105 ease-in duration-300"
+                  src={ContactImg}
+                  alt="/"
+                />
+              </div>
+              <div>
+                <h2 className="py-2">Zayed Hossain</h2>
+                <p>Front-End Developer</p>
+                <p className="py-4">
+                  I am available for Remote job or full-time positions. Contact
+                  me and let&apos;s talk.
+                </p>
+              </div>
+            </div>
+
             <div>
               <div className="my-5">
                 <div className="flex items-center justify-between text-3xl max-w-[330px] m-auto w-full sm:w-[80%]">
@@ -48,10 +49,7 @@ const ContactUs = () => {
                     </a>
                   </div>
                   <div className="rounded-full  shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300">
-                    <a
-                      href="https://github.com/opuzayed"
-                      target="blank"
-                    >
+                    <a href="https://github.com/opuzayed" target="blank">
                       <FaGithub />
                     </a>
                   </div>
